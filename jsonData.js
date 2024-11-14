@@ -1,5 +1,5 @@
-{
-    "d": {
+const sapData = {
+    "d" : {
       "results": [
         {
           "__metadata": {
